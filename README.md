@@ -5,18 +5,7 @@
 ahmedstyle@github
 -----------------
 {
-  "name": "ahmedstyle",
-  "version": "1.0.0",
-  "description": "Crafting seamless experiences through code and creativity",
-  "scripts": {
-    "start": "dream.big()",
-    "debug": "focus.intense()",
-    "deploy": "share.with.world()"
-  },
-  "dependencies": {
-    "passion": "^100.0.0",
-    "creativity": "^infinite",
-    "curiosity": "~always"
+comming soon
   }
 }
 -----------------
