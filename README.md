@@ -15,7 +15,7 @@ mail: itsahmedtarek@gmail.com  X: @2hmedstyle
 ![Views](https://hits.sh/github.com/ahmedstyle/ahmedstyle.svg?style=for-the-badge&label=Profile%20Views&color=white&labelColor=black&logo=github)
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,fastapi,postgres,react,nextjs,tailwind,figma,redis,docker,supabase,aws,git,github,gitlab"
+  <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,fastapi,postgres,react,nextjs,tailwind,redis,docker,aws,git,github,gitlab"
        width="640"/>
 </p>
 
