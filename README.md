@@ -1,7 +1,7 @@
 ```zsh
-
+  
 >   dev · founder · somewhere between Interstellar and a terminal
-
+  
 ```
 ```css
 mail: itsahmedtarek@gmail.com  X: @2hmedstyle
