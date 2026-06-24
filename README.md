@@ -13,7 +13,7 @@ ahmedstyle@github
 ```
 
 ![Views](https://hits.sh/github.com/ahmedstyle/ahmedstyle.svg?style=for-the-badge&label=Profile%20Views&color=white&labelColor=black&logo=github)
-
+![Skills](https://skillicons.dev/icons?i=python,js,ts,fastapi,nodejs,react,nextjs,postgres,redis,docker,git,github,aws)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmedstyle/ahmedstyle/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmedstyle/ahmedstyle/output/github-contribution-grid-snake.svg">
