@@ -4,7 +4,7 @@
 
 ```
 ```css
-mail: itsahmedtarek@gmail.com  X:@2hmedstyle
+mail: itsahmedtarek@gmail.com  X: @2hmedstyle
 
 {
   Fascinated by how intelligence works and how far we can push it. 
