@@ -1,11 +1,14 @@
 ```zsh
-> neofetch
+
+>   dev · founder · somewhere between Interstellar and a terminal
+
 ```
 ```css
 ahmedstyle@github
 
 {
-  Coming soon — building something cool
+  Fascinated by how intelligence works and how far we can push it. 
+  Building the four pillars of intelligence. Memory. Context. Reasoning. Execution.
 }
 ```
 
